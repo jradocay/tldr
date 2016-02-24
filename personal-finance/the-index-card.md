@@ -1,16 +1,16 @@
-# The Index Card
-## Why Personal Finance Doesn't Need to Be Complicated
-### Helaine Olen & Harold Pollack
+# The Index Card - Why Personal Finance Doesn't Need to Be Complicated  
+### Helaine Olen & Harold Pollack  
 
-## Rule #1:  Strive to save 10-20% of your income
-## Rule #2:  Pay your credit card balance in full every month
-## Rule #3:  Max out your 401(k) and other tax-advantaged savings accounts
-## Rule #4:  Never buy or sell individual stocks
-## Rule #5:  Buy inexpensive, well-diversified indexed mutual funds and ETFs
-## Rule #6:  Make your financial advisor commit to the fiduciary standard
-## Rule #7:  Buy a home when you are financially ready
-## Rule #8:  Insurance - make sure you're protected
-## Rule #9:  Do what you can to support the social safety net
+
+### Rule #1:  Strive to save 10-20% of your income
+### Rule #2:  Pay your credit card balance in full every month
+### Rule #3:  Max out your 401(k) and other tax-advantaged savings accounts
+### Rule #4:  Never buy or sell individual stocks
+### Rule #5:  Buy inexpensive, well-diversified indexed mutual funds and ETFs
+### Rule #6:  Make your financial advisor commit to the fiduciary standard
+### Rule #7:  Buy a home when you are financially ready
+### Rule #8:  Insurance - make sure you're protected
+### Rule #9:  Do what you can to support the social safety net
 
 ### Notes:
 - Benchmark against Vanguard 500 Index Fund 0.17% expense ratio  
